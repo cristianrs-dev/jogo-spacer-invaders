@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1748010002,
+	"version": 1748187932,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,7 @@
 		"images/naveinimiga-sheet0.png",
 		"images/wellcome-sheet0.png",
 		"images/start-sheet0.png",
+		"images/fade1-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
